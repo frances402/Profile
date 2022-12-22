@@ -1,7 +1,7 @@
 - Hi, I’m Frances! 👋 
 - 🌱 I’m currently learning Python, Java, and SQL.
 - 📫 How to reach me 
-  - Email: franceslee608@gmail.com
+  - Email: franceslee402@gmail.com
   - Linkedin: https://www.linkedin.com/in/frances402/
 
 <!---
