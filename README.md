@@ -3,7 +3,7 @@
 </div>
 
 - Hi, I’m Frances! 👋 
-- 🌱 I’m currently learning Python, C++, Java, and SQL.
+- 🌱 I’m currently learning Python, Java, C++, Javascript, and SQL.
 - 📫 How to reach me 
   - Email: franceslee402@gmail.com
   - Linkedin: https://www.linkedin.com/in/frances402/
