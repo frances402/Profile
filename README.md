@@ -1,6 +1,6 @@
 <div style="text-align: center;">
     <a href="https://frances402.github.io/" title="ePortfolio Page"><img src="https://img.shields.io/badge/Home-ePortfolio-blue.svg?style=for-the-badge&logo=homeassistant" /></a>
-</div>. password: 402
+</div> password: 402
 
 - Hi, I’m Frances! 👋 
 - 🌱 I’m currently learning Python, Java, C++, Javascript, and SQL.
